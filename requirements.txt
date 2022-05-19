@@ -1,0 +1,11 @@
+#tensorflow-cpu
+#transformers[sentencepiece]
+transformers[tf-cpu]
+voila
+ipywidgets
+
+#pillow<7
+#packaging
+
+
+

@@ -1,0 +1,1 @@
+web: voila --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 --show_tracebacks=True --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True app.ipynb
